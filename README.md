@@ -1,5 +1,2 @@
 # first-projectEdit
-neeraj
-1
-msv
-:wq
+update1 in master
